@@ -1,0 +1,8 @@
+Half word address = X…XX1 penalty: 2 cycles/instruction
+Full word address = X…X01 penalty: 3 cycles/instruction
+Full word address = X…X10 penalty: 2 cycles/instruction
+Full word address = X…X11 penalty: 3 cycles/instruction
+Address dependency penalty: 2 cycles/instruction
+Data dependency penalty: 2 cycles/instruction
+Maximum VDIV/VSQRT overlap: 15 clock cycles
+
